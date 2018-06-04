@@ -1,0 +1,49 @@
+body {
+    margin: 0px 0px 0px 0px;
+    /* padding 5px 0px 20px 30px; */
+    background-color: bisque;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* font-size: 160%; */
+    /* line-height: 1.8em; */
+    /* color: black; */
+    
+}
+/* #p01 {
+    color:blue;
+} */
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+.divh1 {
+    color: blueviolet;
+    font-size: 180%;
+    width: 100%;
+    padding: 30px;
+}
+.divwith1 {
+    width: 85%;
+    font-size: 120%;
+    color: black;
+    padding: 10px;
+    margin: 20px;
+}
