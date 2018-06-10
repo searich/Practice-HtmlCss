@@ -1,4 +1,2 @@
-<script>
-
-
-</script>
+let name = 'Dison';
+console.log(name)
