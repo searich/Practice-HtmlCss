@@ -1,8 +1,10 @@
+*{font-family:Arial, Helvetica, sans-serif, SongTi,"宋体";}
+
 body {
     margin: 0px 0px 0px 0px;
     /* padding 5px 0px 20px 30px; */
     background-color: bisque;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
     /* font-size: 160%; */
     /* line-height: 1.8em; */
     /* color: black; */
@@ -47,4 +49,10 @@ a:active {
     padding: 10px;
     margin: 10px;
     position: relative;
+}
+
+*{
+    background-color:#000!important;
+    color:#fff!important;
+    border-color:#000!important
 }
